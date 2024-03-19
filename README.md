@@ -37,8 +37,4 @@ This guide provides instructions for testing the [Project Name] code.
 6. **Verifying the Results**:
    - Once the execution is completed, verify the results according to the project specifications. Ensure that the code works as intended and the results are correct.
 
-## Contact Information
 
-- **Full Name**: RAMBOLAMANANA Manoa Aro Ny Avo
-- **Email**: hei.manoa.2@gmail.com
-- **STD Reference**: STD21087
