@@ -1,35 +1,44 @@
-# brute_force
+# Testing Guide
 
+This guide provides instructions for testing the [Project Name] code.
 
-# Guide de Test
+## Contact Information
 
-Ce guide fournit des instructions pour tester le code [Nom du Projet].
+- **Full Name**: RAMBOLAMANANA Manoa Aro Ny Avo
+- **Email**: hei.manoa.2@gmail.com
+- **STD Reference**: STD21087
 
-## Étapes pour Tester le Code
+## Steps to Test the Code
 
-1. **Prérequis** :
-   - Assurez-vous d'avoir Python installé sur votre système. Si ce n'est pas le cas, vous pouvez le télécharger à partir de [python.org](https://www.python.org/).
+1. **Prerequisites**:
+   - Make sure you have Python installed on your system. If not, you can download it from [python.org](https://www.python.org/).
 
-2. **Clonage du Projet** :
-   - Clonez le dépôt GitHub du projet en utilisant la commande suivante :
+2. **Cloning the Project**:
+   - Clone the GitHub repository of the project using the following command:
      ```
-     git clone https://github.com/votre-utilisateur/nom-du-projet.git
+     git clone https://github.com/your-username/project-name.git
      ```
 
-3. **Installation des Dépendances** :
-   - Naviguez vers le répertoire du projet et installez les dépendances en exécutant :
+3. **Installing Dependencies**:
+   - Navigate to the project directory and install the dependencies by running:
      ```
      pip install -r requirements.txt
      ```
 
-4. **Configuration** :
-   - Assurez-vous de configurer correctement toutes les variables d'environnement ou les fichiers de configuration nécessaires. Consultez la documentation du projet pour obtenir des instructions détaillées sur la configuration.
+4. **Configuration**:
+   - Ensure to configure all environment variables or necessary configuration files properly. Refer to the project documentation for detailed instructions on configuration.
 
-5. **Exécution du Code** :
-   - Utilisez la commande suivante pour exécuter le code :
+5. **Running the Code**:
+   - Use the following command to run the code:
      ```
      python main.py
      ```
 
-6. **Vérification des Résultats** :
-   - Une fois l'exécution terminée, vérifiez les résultats selon les spécifications du projet. Assurez-vous que le code fonctionne comme prévu et que les résultats sont corrects.
+6. **Verifying the Results**:
+   - Once the execution is completed, verify the results according to the project specifications. Ensure that the code works as intended and the results are correct.
+
+## Contact Information
+
+- **Full Name**: RAMBOLAMANANA Manoa Aro Ny Avo
+- **Email**: hei.manoa.2@gmail.com
+- **STD Reference**: STD21087
