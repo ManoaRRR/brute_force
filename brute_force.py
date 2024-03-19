@@ -23,8 +23,9 @@ def multi_threaded_brute_force(url, wordlist, num_threads):
     with open(wordlist, 'r') as f:
         lines = f.readlines()
         chunk_size = len(lines) // num_threads
-        threads = []
+        divided_wordlist = [lines[i:i+chunk_size] for i in range(0, len(lines), chunk_size)]
 
+        threads = []
         for i in range(num_threads):
             start_index = i * chunk_size
             end_index = start_index + chunk_size if i < num_threads - 1 else len(lines)
