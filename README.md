@@ -31,7 +31,7 @@ This guide provides instructions for testing the [Project Name] code.
 5. **Running the Code**:
    - Use the following command to run the code:
      ```
-     python main.py
+     python brute_force.py
      ```
 
 6. **Verifying the Results**:
