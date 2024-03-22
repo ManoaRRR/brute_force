@@ -1,3 +1,6 @@
+# the paths found are : 
+   -http://127.0.0.1:5000// 
+   -http://127.0.0.1:5000/index  
 # Testing Guide
 
 This guide provides instructions for testing the [Project Name] code.
